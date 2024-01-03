@@ -1,0 +1,4 @@
+<?php
+header("Location: https://proofread-lppm.undip.ac.id/user_guide/img/", true, 301);
+exit();
+?>

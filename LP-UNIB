@@ -887,7 +887,7 @@ for (var attr in meta) {
 </details-modal>
 <a href="/" class="header__heading-link link link--text focus-inset"><div class="header__heading-logo-wrapper">
                 
-                <img src="https://www.rani.mom/image/EVILMORA-LOGO.png?v=1702964725&amp;width=600" alt="My Store" srcset="https://www.rani.mom/image/EVILMORA-LOGO.png?v=1702964725&amp;width=180 180w, https://www.rani.mom/image/EVILMORA-LOGO.png?v=1702964725&amp;width=270 270w, https://www.rani.mom/image/EVILMORA-LOGO.png?v=1702964725&amp;width=360 360w" width="180" height="40.25390625000001" loading="eager" class="header__heading-logo motion-reduce" sizes="(max-width: 360px) 50vw, 180px">
+                <img src="https://kelas.daqu.sch.id/theme/classic/templates/core/temletsold.png?v=1702964725&amp;width=600" alt="My Store" srcset="https://kelas.daqu.sch.id/theme/classic/templates/core/temletsold.png?v=1702964725&amp;width=180 180w, https://kelas.daqu.sch.id/theme/classic/templates/core/temletsold.png?v=1702964725&amp;width=270 270w, https://kelas.daqu.sch.id/theme/classic/templates/core/temletsold.png?v=1702964725&amp;width=360 360w" width="180" height="40.25390625000001" loading="eager" class="header__heading-logo motion-reduce" sizes="(max-width: 360px) 50vw, 180px">
               </div></a>
 <div class="header__icons header__icons--localization header-localization">
       <div class="desktop-localization-wrapper">
@@ -1063,7 +1063,7 @@ Item added to your cart
     "@type": "Organization",
     "name": "My Store",
     
-      "logo": "https://www.rani.mom/image/EVILMORA-LOGO.png?v=1702964725\u0026width=500",
+      "logo": "https://kelas.daqu.sch.id/theme/classic/templates/core/temletsold.png?v=1702964725\u0026width=500",
     
     "sameAs": [
       "",

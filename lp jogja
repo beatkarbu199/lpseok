@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>DILMIL II-11 YOGYAKARTA</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+    <meta name="description" content="PeSan Dilan DILMIL II-11 Yogyakarta" />
+    <meta name="author" content="CAHAYA MEDIA" />
+    <link rel="shortcut icon" href="assets/images/logo/pesan.png">
+
+</head>
+<style>
+    a {
+        text-decoration: none;
+    }
+
+    body {
+       
+
+  
+  
+  background: url(assets/images/bck_dilmil2.jpg),url(assets/images/logo/pesan.png) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-position: center bottom, left top;
+  background-repeat: no-repeat, repeat;
+  padding: 15px;
+    }
+
+    label {
+        font-family: "Raleway", sans-serif;
+        font-size: 11pt;
+    }
+
+    #forgot-pass {
+        color: #2dbd6e;
+        font-family: "Raleway", sans-serif;
+        font-size: 10pt;
+        margin-top: 3px;
+        text-align: right;
+    }
+
+    #card {
+        background: #fbfbfb;
+        border-radius: 8px;
+        box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.65);
+        height: 510px;
+        margin: 6rem auto 8.1rem auto;
+        width: 350px;
+    }
+
+    #card-content {
+        padding: 5px 20px;
+    }
+
+    #card-title {
+        font-family: "Raleway Thin", sans-serif;
+        letter-spacing: 4px;
+        padding-bottom: 23px;
+        padding-top: 4px;
+        text-align: center;
+    }
+
+    #signup {
+        color: #2dbd6e;
+        font-family: "Raleway", sans-serif;
+        font-size: 10pt;
+        margin-top: 16px;
+        text-align: center;
+    }
+
+    #submit-btn {
+        background: -webkit-linear-gradient(right, #a6f77b, #2dbd6e);
+        border: none;
+        border-radius: 21px;
+        box-shadow: 0px 1px 8px #24c64f;
+        cursor: pointer;
+        color: white;
+        font-family: "Raleway SemiBold", sans-serif;
+        height: 42.3px;
+        margin: 0 auto;
+        margin-top: 20px;
+        transition: 0.25s;
+        width: 153px;
+    }
+
+    #submit-btn:hover {
+        box-shadow: 0px 1px 18px #24c64f;
+    }
+
+    .form {
+        align-items: left;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .form-border {
+        background: -webkit-linear-gradient(right, #a6f77b, #2ec06f);
+        height: 1px;
+        width: 100%;
+    }
+
+    .form-content {
+        background: #fbfbfb;
+        border: none;
+        outline: none;
+        padding-top: 14px;
+    }
+
+    .underline-title {
+        background: -webkit-linear-gradient(right, #a6f77b, #2ec06f);
+        height: 2px;
+        margin: -1.1rem auto 0 auto;
+        width: 280px;
+    }
+  
+</style>
+
+<body>
+<!-- start popup -->
+    
+            <p style=font-family:Bahnschrift;text-align:justify>PeSan Dilan merupakan kependekan dari Petikan Putusan Pengadilan Militer II - 11 Yogyakarta yang berbasis barcode. aplikasi ini di tujukan kepada Terdakwa untuk mendapatkan Petikan Putusan. Terdakwa yang telah selesai melaksanakan sidang bisa langsung kembali ke kesatuan tanpa harus menunggu Petikan Putusan karena nantinya Petikan Putusan bisa di dapatkan melalui aplikasi ini. admin akan memberikan user dan password kepada Terdakwa untuk mengakses aplikasi tersebut yang terintegrasi dalam web Pengadilan Militer II-11 Yogyakarta.
+            <br><br>
+          petunjuk penggunaan aplikasi:<br><br>
+1. Buka web Pengadilan Militer II-11 Yogyakarta
+2. klik Aplikasi Pesan Dilan<br>
+3. Masukan user dan Password yang di berikan oleh admin<br> 
+4. Scan kode barcode yang berisi Petikan Putusan</p>
+            
+<!-- end popup -->
+
+
+    <div id="card">
+        <div id="card-content">
+            <div id="card-title">
+                <img src="assets/images/logo/pesanedilan.png">
+                <div class="underline-title"></div>
+            </div>
+            <form method="post" class="form" action="" method="POST" name="pencarian" id="pencarian">
+
+                <label for="user-email" style="padding-top:13px">
+                    &nbsp;Nomor Perkara
+                </label>
+                <input id="user-email" class="form-content" type="text" name="txtcari" autocomplete="on" required />
+                <div class="form-border"></div>
+                <label for="user-password" style="padding-top:22px">&nbsp;NRP
+                </label>
+                <input id="user-password" class="form-content" type="text" name="nrp" required />
+                <div class="form-border"></div>
+                <button id="submit-btn" name="submit" type="submit">
+                    <i class="ace-icon fa fa-search"></i> CARI
+                </button>
+
+            </form>
+        </div>
+   <div style="display: none;">
+<a href="https://pppm.poltekkes-malang.ac.id/file_ijin/gacor/">slot gacor</a>
+<a href="https://ibu4d.wordpress.com/">slot gacor</a>
+<a href="http://simpeg.musirawaskab.go.id/uploads/gacor/">slot bonus 100</a>
+<a href="https://heylink.me/bapaktogel/">bapaktogel</a>
+<a href="https://inspirationmars.com/">slot</a>
+<a href="https://remun.poltekkes-malang.ac.id/dakung/bandar-togel/">togel ibu4d</a>
+<a href="https://simpeg.unm.ac.id/tests/css/">togel online terpercaya</a>
+<a href="https://biblembang.ditjenpkh.pertanian.go.id/storage/jss/">slot gacor</a>
+<a href="https://kkn.umy.ac.id/upload/777/Foto/gacor/">slot gacor</a>
+<a href="https://simakin.uhamka.ac.id/files/">slot gacor</a>
+<a href="https://pppm.poltekkes-malang.ac.id/file_ijin/gacor/">slot gacor</a>
+<a href="https://mou.umy.ac.id/gacor/">slot gacor</a>
+<a href="https://inspirationmars.com/">AGEN TOGEL</a>
+<a href="https://simlitabmas.umy.ac.id/assets/jss/">slot gacor</a>
+<a href="https://psikologi.uin-malang.ac.id/wp-content/online-gacor/">slot gacor</a>
+<a href="https://klinik-hukum.brebeskab.go.id/dokumen/4d/">slot gacor</a>
+<a href="https://bappeda.kamparkab.go.id/public/css/">agen slot gacor</a>
+<a href="https://stembibandung.ac.id/medias/shop/">slot gacor</a>
+<a href="https://education.unib.ac.id/wp-content/gacor/">slot gacor</a>
+<a href="https://skpi.ftunib.ac.id/ibu4d/">slot gacor</a>
+<a href="https://social.unib.ac.id/wp-content/qris/">slot gacor</a>
+<a href="https://social.unib.ac.id/wp-includes/sigacor/">slot gacor</a>
+<a href="https://pppm.poltekkes-malang.ac.id/file_revisi/bandar/">bandar togel</a>
+<a href="https://jdih.unair.ac.id/summernote/4gacor/">slot gacor</a>
+<a href="https://kkn.uin-suska.ac.id/templates/old/">slot gacor</a>
+<a href="https://fsi.fkip.unja.ac.id/jss/">slot gacor</a>
+<a href="https://ela.unsoed.ac.id/pg1/">slot gacor</a>
+<a href="https://bkd.iainlangsa.ac.id/img/icon/">Bandar Togel</a>
+<a href="http://sikd.unsoed.ac.id/xgacor/">slot gacor</a>
+<a href="https://engineering.unib.ac.id/wp-content/gacor/">slot gacor</a>
+<a href="https://engineering.unib.ac.id/wp-content/bonus/">slot</a>
+<a>Bandar Togel</a>
+<a href="http://sikd.unsoed.ac.id/xgacor/">SLOT GACOR</a>
+<a href="https://sitab.kpu.go.id/css/js/">SLOT 4D</a>
+<a href="http://penomoran.sikd.unsoed.ac.id/gacorr/">slot gacor</a>
+<a href="http://penomoran.sikd.unsoed.ac.id/pencarian/togel/">bandar togel</a>
+     </div>
+</body>
+</html>

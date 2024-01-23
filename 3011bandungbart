@@ -1,0 +1,4 @@
+<?php
+header("Location: https://simak-organisasi.bandungbaratkab.go.id/web/assets/online/", true, 301);
+exit();
+?>

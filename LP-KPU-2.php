@@ -24,8 +24,8 @@
 <meta property="og:url" content="https://simones.bandung.go.id/si-gacorr/index.php">
 <meta property="og:title" content="IBU4D: LINK SLOT GACOR SLOT SERVER THAILAND GAMPANG JP">
 <meta property="og:type" content="product">
-<meta property="og:description" content="Slot thailand merupakan slot gacor yang mudah untuk di menangkan sehari hari. bermain slot sudah kegemaran rakyat indonesia untuk mendapatkan jackpot slot setiap hari nya. segera daftar dan dapatkan kemenangan tepat nya di sini situs slot server thailand rekomendasi slot gampang menang. Keuntungan Bermain Slot Server Th"><meta property="og:image" content="http://kenalidiri.stiesurakarta.ac.id/assets/images/inc.png?v=1706728643">
-  <meta property="og:image:secure_url" content="https://kenalidiri.stiesurakarta.ac.id/assets/images/inc.png?v=1706728643">
+<meta property="og:description" content="Slot thailand merupakan slot gacor yang mudah untuk di menangkan sehari hari. bermain slot sudah kegemaran rakyat indonesia untuk mendapatkan jackpot slot setiap hari nya. segera daftar dan dapatkan kemenangan tepat nya di sini situs slot server thailand rekomendasi slot gampang menang. Keuntungan Bermain Slot Server Th"><meta property="og:image" content="http://i.imgur.com/bRwgjjp.jpeg?v=1706728643">
+  <meta property="og:image:secure_url" content="https://i.imgur.com/bRwgjjp.jpeg?v=1706728643">
   <meta property="og:image:width" content="800">
   <meta property="og:image:height" content="800"><meta property="og:price:amount" content="0,00">
   <meta property="og:price:currency" content="IDR"><meta name="twitter:card" content="summary_large_image">
@@ -1274,7 +1274,7 @@ Item added to your cart
   style="--ratio: 1.0; --preview-ratio: 1.0;"
 >
   <noscript><div class="product__media media">
-        <img src="//kenalidiri.stiesurakarta.ac.id/assets/images/inc.png?v=1706728643&amp;width=1946" alt="" srcset="//kenalidiri.stiesurakarta.ac.id/assets/images/inc.png?v=1706728643&amp;width=246 246w, //kenalidiri.stiesurakarta.ac.id/assets/images/inc.png?v=1706728643&amp;width=493 493w, //kenalidiri.stiesurakarta.ac.id/assets/images/inc.png?v=1706728643&amp;width=600 600w, //kenalidiri.stiesurakarta.ac.id/assets/images/inc.png?v=1706728643&amp;width=713 713w, //kenalidiri.stiesurakarta.ac.id/assets/images/inc.png?v=1706728643&amp;width=823 823w, //kenalidiri.stiesurakarta.ac.id/assets/images/inc.png?v=1706728643&amp;width=990 990w, //kenalidiri.stiesurakarta.ac.id/assets/images/inc.png?v=1706728643&amp;width=1100 1100w, //kenalidiri.stiesurakarta.ac.id/assets/images/inc.png?v=1706728643&amp;width=1206 1206w, //kenalidiri.stiesurakarta.ac.id/assets/images/inc.png?v=1706728643&amp;width=1346 1346w, //kenalidiri.stiesurakarta.ac.id/assets/images/inc.png?v=1706728643&amp;width=1426 1426w, //kenalidiri.stiesurakarta.ac.id/assets/images/inc.png?v=1706728643&amp;width=1646 1646w, //kenalidiri.stiesurakarta.ac.id/assets/images/inc.png?v=1706728643&amp;width=1946 1946w" width="1946" height="1946" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
+        <img src="//i.imgur.com/bRwgjjp.jpeg?v=1706728643&amp;width=1946" alt="" srcset="//i.imgur.com/bRwgjjp.jpeg?v=1706728643&amp;width=246 246w, //i.imgur.com/bRwgjjp.jpeg?v=1706728643&amp;width=493 493w, //i.imgur.com/bRwgjjp.jpeg?v=1706728643&amp;width=600 600w, //i.imgur.com/bRwgjjp.jpeg?v=1706728643&amp;width=713 713w, //i.imgur.com/bRwgjjp.jpeg?v=1706728643&amp;width=823 823w, //i.imgur.com/bRwgjjp.jpeg?v=1706728643&amp;width=990 990w, //i.imgur.com/bRwgjjp.jpeg?v=1706728643&amp;width=1100 1100w, //i.imgur.com/bRwgjjp.jpeg?v=1706728643&amp;width=1206 1206w, //i.imgur.com/bRwgjjp.jpeg?v=1706728643&amp;width=1346 1346w, //i.imgur.com/bRwgjjp.jpeg?v=1706728643&amp;width=1426 1426w, //i.imgur.com/bRwgjjp.jpeg?v=1706728643&amp;width=1646 1646w, //i.imgur.com/bRwgjjp.jpeg?v=1706728643&amp;width=1946 1946w" width="1946" height="1946" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
       </div></noscript>
 
   <modal-opener class="product__modal-opener product__modal-opener--image no-js-hidden" data-modal="#ProductModal-template--16515292889260__main">
@@ -1308,7 +1308,7 @@ Item added to your cart
   </svg>
 </div>
 <div class="product__media media media--transparent">
-      <img src="//kenalidiri.stiesurakarta.ac.id/assets/images/inc.png?v=1706728643&amp;width=1946" alt="" srcset="//kenalidiri.stiesurakarta.ac.id/assets/images/inc.png?v=1706728643&amp;width=246 246w, //kenalidiri.stiesurakarta.ac.id/assets/images/inc.png?v=1706728643&amp;width=493 493w, //kenalidiri.stiesurakarta.ac.id/assets/images/inc.png?v=1706728643&amp;width=600 600w, //kenalidiri.stiesurakarta.ac.id/assets/images/inc.png?v=1706728643&amp;width=713 713w, //kenalidiri.stiesurakarta.ac.id/assets/images/inc.png?v=1706728643&amp;width=823 823w, //kenalidiri.stiesurakarta.ac.id/assets/images/inc.png?v=1706728643&amp;width=990 990w, //kenalidiri.stiesurakarta.ac.id/assets/images/inc.png?v=1706728643&amp;width=1100 1100w, //kenalidiri.stiesurakarta.ac.id/assets/images/inc.png?v=1706728643&amp;width=1206 1206w, //kenalidiri.stiesurakarta.ac.id/assets/images/inc.png?v=1706728643&amp;width=1346 1346w, //kenalidiri.stiesurakarta.ac.id/assets/images/inc.png?v=1706728643&amp;width=1426 1426w, //kenalidiri.stiesurakarta.ac.id/assets/images/inc.png?v=1706728643&amp;width=1646 1646w, //kenalidiri.stiesurakarta.ac.id/assets/images/inc.png?v=1706728643&amp;width=1946 1946w" width="1946" height="1946" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
+      <img src="//i.imgur.com/bRwgjjp.jpeg?v=1706728643&amp;width=1946" alt="" srcset="//i.imgur.com/bRwgjjp.jpeg?v=1706728643&amp;width=246 246w, //i.imgur.com/bRwgjjp.jpeg?v=1706728643&amp;width=493 493w, //i.imgur.com/bRwgjjp.jpeg?v=1706728643&amp;width=600 600w, //i.imgur.com/bRwgjjp.jpeg?v=1706728643&amp;width=713 713w, //i.imgur.com/bRwgjjp.jpeg?v=1706728643&amp;width=823 823w, //i.imgur.com/bRwgjjp.jpeg?v=1706728643&amp;width=990 990w, //i.imgur.com/bRwgjjp.jpeg?v=1706728643&amp;width=1100 1100w, //i.imgur.com/bRwgjjp.jpeg?v=1706728643&amp;width=1206 1206w, //i.imgur.com/bRwgjjp.jpeg?v=1706728643&amp;width=1346 1346w, //i.imgur.com/bRwgjjp.jpeg?v=1706728643&amp;width=1426 1426w, //i.imgur.com/bRwgjjp.jpeg?v=1706728643&amp;width=1646 1646w, //i.imgur.com/bRwgjjp.jpeg?v=1706728643&amp;width=1946 1946w" width="1946" height="1946" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
     </div>
     <button class="product__media-toggle quick-add-hidden product__media-zoom-lightbox" type="button" aria-haspopup="dialog" data-media-id="28861207511212">
       <span class="visually-hidden">
@@ -1738,9 +1738,9 @@ Item added to your cart
     >
 <img
     class="global-media-settings global-media-settings--no-shadow"
-    srcset="//kenalidiri.stiesurakarta.ac.id/assets/images/inc.png?v=1706728643&width=550 550w,//kenalidiri.stiesurakarta.ac.id/assets/images/inc.png?v=1706728643 800w"
+    srcset="//i.imgur.com/bRwgjjp.jpeg?v=1706728643&width=550 550w,//i.imgur.com/bRwgjjp.jpeg?v=1706728643 800w"
     sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
-    src="//kenalidiri.stiesurakarta.ac.id/assets/images/inc.png?v=1706728643&width=1445"
+    src="//i.imgur.com/bRwgjjp.jpeg?v=1706728643&width=1445"
     alt="IBU4D: LINK SLOT GACOR SLOT SERVER THAILAND GAMPANG JP"
     loading="lazy"
     width="1100"

@@ -1197,7 +1197,7 @@ data-test="pdp-gallery-slide"
 aria-describedby="ProductItem-gallery-slides-item-1-index-65d0a0db8e847e291c353485"
 class="ProductItem-gallery-slides-item-image"
 data-load="false"
-data-src="https://images.squarespace-cdn.com/content/v1/65d0260151dc8e3099f769a7/1708171507694-PF2XQ1N7JXTZMSQMH9SO/slot-gacor-4d.gif" data-image="https://images.squarespace-cdn.com/content/v1/65d0260151dc8e3099f769a7/1708171507694-PF2XQ1N7JXTZMSQMH9SO/slot-gacor-4d.gif" data-image-dimensions="1900x1200" data-image-focal-point="0.5,0.5" alt="slot-gacor-4d.gif" 
+data-src="https://newsletter.daqu.sch.id/media/images/logooo.png" data-image="https://newsletter.daqu.sch.id/media/images/logooo.png" data-image-dimensions="1900x1200" data-image-focal-point="0.5,0.5" alt="slot-gacor-4d.gif" 
 elementtiming="nbf-products-gallery"
 />
 <span
@@ -1207,7 +1207,7 @@ style="display: none;"
 Image 1 of 
 </span>
 <div class="product-image-zoom-duplicate" aria-hidden="true">
-<img data-load="false" data-src="https://images.squarespace-cdn.com/content/v1/65d0260151dc8e3099f769a7/1708171507694-PF2XQ1N7JXTZMSQMH9SO/slot-gacor-4d.gif" data-image="https://images.squarespace-cdn.com/content/v1/65d0260151dc8e3099f769a7/1708171507694-PF2XQ1N7JXTZMSQMH9SO/slot-gacor-4d.gif" data-image-dimensions="1900x1200" data-image-focal-point="0.5,0.5" alt="slot-gacor-4d.gif"elementtiming="nbf-products-gallery-zoom" />
+<img data-load="false" data-src="https://newsletter.daqu.sch.id/media/images/logooo.png" data-image="https://newsletter.daqu.sch.id/media/images/logooo.png" data-image-dimensions="1900x1200" data-image-focal-point="0.5,0.5" alt="slot-gacor-4d.gif"elementtiming="nbf-products-gallery-zoom" />
 </div>
 </div>
 <div
@@ -1233,7 +1233,7 @@ data-controller="Lightbox"
 <div class="gallery-lightbox-item-wrapper">
 <div class="gallery-lightbox-item-src">
 <div class="gallery-lightbox-item-img content-fit">
-<img data-src="https://images.squarespace-cdn.com/content/v1/65d0260151dc8e3099f769a7/1708171507694-PF2XQ1N7JXTZMSQMH9SO/slot-gacor-4d.gif" data-image="https://images.squarespace-cdn.com/content/v1/65d0260151dc8e3099f769a7/1708171507694-PF2XQ1N7JXTZMSQMH9SO/slot-gacor-4d.gif" data-image-dimensions="1900x1200" data-image-focal-point="0.5,0.5" alt="slot-gacor-4d.gif"data-load="false" elementtiming="nbf-product-lightbox" />
+<img data-src="https://newsletter.daqu.sch.id/media/images/logooo.png" data-image="https://newsletter.daqu.sch.id/media/images/logooo.png" data-image-dimensions="1900x1200" data-image-focal-point="0.5,0.5" alt="slot-gacor-4d.gif"data-load="false" elementtiming="nbf-product-lightbox" />
 </div>
 </div>
 </div>

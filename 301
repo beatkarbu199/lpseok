@@ -1,4 +1,0 @@
-<?php
-header("Location: https://dishub.ppid.semarangkota.go.id/wp-content/img/", true, 301);
-exit();
-?>

